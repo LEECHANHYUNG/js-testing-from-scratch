@@ -1,0 +1,7 @@
+{
+  "Function Expression": {
+    "prefix": "fe",
+    "body": ["const ${1:name} = function (${2:params}) {", "\t$0", "};"],
+    "description": "함수 표현식 (Function Expression)"
+  }
+}

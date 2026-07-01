@@ -1,0 +1,10 @@
+{
+  "name": "js-testing-from-scratch",
+  "version": "1.0.0",
+  "description": "맨손으로 만드는 JS 테스트 스터디",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node 01-from-scratch/custom-test-phase1.js"
+  },
+  "license": "MIT"
+}
