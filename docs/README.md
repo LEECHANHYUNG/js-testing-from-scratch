@@ -29,7 +29,8 @@ _raw/YYYY-MM-DD.md  (매일 날것으로 메모)  →  정리  →  concepts/ ·
 
 README의 학습 단계(phase)에 맞춰, 각 단계에서 배운 것을 시간순으로 남긴다.
 
-- [phase1 — 원시적 수동 테스트](./journal/phase1.md) (phase3의 assertEquals + check 러너까지 포함)
+- [phase1 — 원시적 수동 테스트](./journal/phase1.md)
+- [phase3 — assertEquals와 check 러너](./journal/phase3.md)
 
 ## 작성 규칙
 
